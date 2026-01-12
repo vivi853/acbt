@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "acbt", "acbt.pyproj", "{CEA0F6AD-EA0D-45E3-8E51-1A2A1E22A248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEA0F6AD-EA0D-45E3-8E51-1A2A1E22A248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA0F6AD-EA0D-45E3-8E51-1A2A1E22A248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F4C7BCF-CDAD-42A6-8CF0-67F8A04D3EBF}
+	EndGlobalSection
+EndGlobal
